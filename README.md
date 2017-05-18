@@ -3,7 +3,7 @@ This is a base project that aims to easily create a structure for holding projec
 
 An example of how to use it would be:
 
-'''new-project drupal8-test'''
+```new-project drupal8-test```
 
 And that would create a drupal boilerplate, based on the repository: https://github.com/nicobot/drupal-project-boilerplate
 
